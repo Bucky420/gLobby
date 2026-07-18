@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+    "$basetexture" "globby/test/globby_concrete007_2k"
+    "$surfaceprop" "concrete"
+    "$bumpmap" "globby/test/globby_concrete007_2k_bump"
+    "$envmap" "env_cubemap"
+    "$envmapmask" "globby/test/globby_concrete007_2k_envmask"
+    "$envmaptint" "[0.08 0.08 0.08]"
+    "$envmapcontrast" "0"
+    "$envmapsaturation" "0.35"
+}

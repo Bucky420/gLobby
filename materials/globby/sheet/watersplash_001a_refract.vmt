@@ -1,0 +1,11 @@
+Refract
+{
+	"$normalmap" "effects/workshop/oceanreef/warp_water1_normal"
+	"$refractamount" "0.06"
+	"$forcerefract" 1
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nocull" 1
+	"$bluramount" "0.015"
+}

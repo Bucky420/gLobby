@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+    "$basetexture" "globby/test/globby_fabric025_2k"
+    "$surfaceprop" "carpet"
+    "$bumpmap" "globby/test/globby_fabric025_2k_bump"
+}

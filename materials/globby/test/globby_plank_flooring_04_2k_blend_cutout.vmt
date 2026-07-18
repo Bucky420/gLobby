@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+    "$basetexture" "globby/test/globby_plank_flooring_04_2k_blend_cutout"
+    "$surfaceprop" "wood"
+    "$bumpmap" "globby/test/globby_plank_flooring_04_2k_blend_bump"
+    "$alphatest" "1"
+    "$alphatestreference" "0.5"
+    "$envmap" "env_cubemap"
+    "$envmapmask" "globby/test/globby_plank_flooring_04_2k_blend_envmask"
+    "$envmaptint" "[0.06 0.06 0.06]"
+    "$envmapcontrast" "0"
+    "$envmapsaturation" "0.35"
+}

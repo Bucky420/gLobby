@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+  "$basetexture" "devneons/grey_neon"
+  "$surfaceprop" "glass"
+  "$selfillum" 1
+}

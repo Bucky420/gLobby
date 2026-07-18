@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+    "$basetexture" "globby/test/globby_tiles075_2k"
+    "$surfaceprop" "tile"
+    "$bumpmap" "globby/test/globby_tiles075_2k_bump"
+}

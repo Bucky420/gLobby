@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+  "$basetexture" "devneons/blue_neon"
+  "$surfaceprop" "glass"
+  "$selfillum" 1
+  "Proxies"
+  {
+    "TextureTransform"
+    {
+      "rotateRate" "15"
+      "center" "[0.5 0.5]"
+    }
+  }
+}

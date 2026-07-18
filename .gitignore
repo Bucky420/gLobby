@@ -1,0 +1,46 @@
+# Ignore everything by default.
+*
+
+# Keep this file tracked.
+!.gitignore
+
+# Keep agent/config files local so they are not uploaded.
+# Block all Markdown files from being tracked.
+*.md
+AGENTS.md
+plan.md
+.opencode/
+
+# VMF sources under map/.
+!map/
+!map/**/
+!map/*.vmf
+!map/**/*.vmf
+
+# Lua sources.
+!lua/
+!lua/**/
+!lua/*.lua
+!lua/**/*.lua
+
+# Particle systems (PCF).
+!particles/
+!particles/**/
+!particles/**/*.pcf
+
+# Materials.
+!materials/
+!materials/**/
+!materials/**
+
+# Hammer Source prototype sources. SDK/reference trees under tools stay ignored.
+!tools/
+tools/*
+!tools/hammer_source_proto.cpp
+!tools/build_hammer_source_proto.bat
+!tools/standalone_filesystem.cpp
+!tools/standalone_filesystem.h
+!tools/proto_include/
+tools/proto_include/*
+!tools/proto_include/materialsystem/
+!tools/proto_include/materialsystem/imaterialsystem.h
